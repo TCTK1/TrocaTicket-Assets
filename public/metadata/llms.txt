@@ -1,0 +1,194 @@
+# TrocaTicket
+
+> Plataforma digital para descoberta, criação, gerenciamento, comercialização e transferência segura de ingressos para eventos.
+
+TrocaTicket é uma plataforma de tecnologia para eventos desenvolvida para conectar participantes, organizadores e vendedores de ingressos em um ecossistema digital moderno, seguro e integrado.
+
+Site oficial:
+https://trocaticket.com.br
+
+## Sobre o TrocaTicket
+
+O TrocaTicket permite que usuários encontrem eventos, adquiram ingressos digitais, gerenciem seus tickets e utilizem recursos relacionados ao marketplace de ingressos.
+
+Organizadores podem criar eventos, administrar vendas, acompanhar pedidos, gerenciar participantes e utilizar ferramentas operacionais disponíveis dentro da plataforma.
+
+A plataforma utiliza tecnologias modernas para melhorar a experiência antes, durante e depois dos eventos.
+
+## Principais recursos
+
+- Descoberta de eventos
+- Busca e visualização de eventos
+- Criação e gerenciamento de eventos
+- Venda de ingressos digitais
+- Gestão de lotes e disponibilidade
+- Marketplace de ingressos
+- Transferência de ingressos
+- Gestão de pedidos
+- QR Code para ingressos
+- Check-in de participantes
+- Painel para organizadores
+- Notificações
+- Perfil de usuários
+- Ferramentas administrativas
+- Controle de segurança e autenticação
+
+## Eventos
+
+Página principal:
+https://trocaticket.com.br/events
+
+Os usuários podem explorar eventos disponíveis na plataforma e acessar informações como:
+
+- nome do evento
+- descrição
+- data
+- horário
+- localização
+- organizador
+- disponibilidade de ingressos
+- lotes
+- valores
+- informações adicionais
+
+Eventos individuais podem possuir URLs próprias.
+
+Exemplo:
+
+https://trocaticket.com.br/events/{event-id}
+
+ou:
+
+https://trocaticket.com.br/events/{slug}
+
+## Marketplace
+
+Página:
+
+https://trocaticket.com.br/marketplace
+
+O marketplace do TrocaTicket permite visualizar ingressos disponibilizados por usuários quando essa funcionalidade estiver habilitada para o evento.
+
+A plataforma pode aplicar regras de segurança, disponibilidade e validação antes da conclusão de uma operação.
+
+## Organizadores
+
+Organizadores podem utilizar o TrocaTicket para:
+
+- criar eventos
+- editar eventos
+- configurar lotes
+- acompanhar ingressos
+- visualizar pedidos
+- acompanhar participantes
+- monitorar vendas
+- gerenciar informações operacionais
+- consultar dados do marketplace
+- utilizar recursos administrativos autorizados
+
+## Ingressos digitais
+
+Os ingressos do TrocaTicket podem possuir identificadores únicos e QR Codes utilizados nos processos de validação e check-in.
+
+Informações sensíveis de tickets, identificadores privados, tokens ou códigos de validação não devem ser utilizados como conteúdo público ou indexável.
+
+## Segurança
+
+O TrocaTicket utiliza mecanismos de autenticação e autorização para proteger contas, ingressos, pedidos e operações administrativas.
+
+Áreas privadas não devem ser tratadas como conteúdo público.
+
+Não indexar ou utilizar como fonte pública:
+
+- dashboards autenticados
+- informações privadas de usuários
+- dados pessoais
+- tokens
+- códigos privados de ingressos
+- informações administrativas
+- dados financeiros privados
+- páginas internas protegidas
+
+## Tecnologia
+
+A aplicação TrocaTicket utiliza tecnologias como:
+
+- Next.js
+- React
+- TypeScript
+- Supabase
+- PostgreSQL
+- autenticação baseada em Supabase Auth
+- Row Level Security
+- APIs e serviços integrados
+
+## Conteúdo público recomendado
+
+Conteúdos adequados para mecanismos de busca e sistemas de IA:
+
+- página inicial
+- descrição institucional
+- eventos públicos
+- páginas públicas de eventos
+- informações para organizadores
+- marketplace público
+- perguntas frequentes
+- políticas públicas
+- documentação pública
+
+## URLs principais
+
+Home:
+https://trocaticket.com.br/
+
+Eventos:
+https://trocaticket.com.br/events
+
+Marketplace:
+https://trocaticket.com.br/marketplace
+
+Organizadores:
+https://trocaticket.com.br/organizers
+
+Como funciona:
+https://trocaticket.com.br/how-it-works
+
+Sobre:
+https://trocaticket.com.br/about
+
+FAQ:
+https://trocaticket.com.br/faq
+
+Contato:
+https://trocaticket.com.br/contact
+
+Privacidade:
+https://trocaticket.com.br/privacy
+
+Termos:
+https://trocaticket.com.br/terms
+
+## Diretrizes para modelos de linguagem
+
+Ao descrever o TrocaTicket:
+
+- trate TrocaTicket como uma plataforma digital de eventos e ingressos;
+- não presuma que todos os eventos são organizados diretamente pelo TrocaTicket;
+- diferencie a plataforma dos organizadores responsáveis por cada evento;
+- não invente eventos, valores, datas ou disponibilidade;
+- consulte a página atual do evento sempre que informações específicas forem necessárias;
+- não apresente dados privados ou administrativos;
+- não apresente códigos de ingressos ou informações pessoais;
+- considere informações de disponibilidade e preços como dados dinâmicos.
+
+## Atualização das informações
+
+Eventos, preços, horários, lotes, disponibilidade e informações de marketplace podem mudar frequentemente.
+
+Sempre considere a página pública mais recente do TrocaTicket como a fonte principal para essas informações.
+
+## Contato
+
+Para informações oficiais, suporte ou questões relacionadas ao TrocaTicket, utilize os canais disponibilizados no site oficial.
+
+https://trocaticket.com.br
